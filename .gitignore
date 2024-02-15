@@ -1,0 +1,11 @@
+# others lock files
+package-lock.json
+yarn.lock
+yarn-error.log
+.pnpm-debug.log
+
+# node
+node_modules
+
+# env
+.env
